@@ -8,7 +8,7 @@ This is a REST API what can be used to play games of noughts and crosses.
 
 ```bash
 git clone https://github.com/apteryxxyz/noughts-and-crosses-api
-cd noughts-crosses-api
+cd noughts-and-crosses-api
 ```
 
 ## Run
